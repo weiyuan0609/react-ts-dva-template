@@ -1,8 +1,8 @@
-# webpack5 + ts + react + antd-4x + dva 项目模板
+# webpack5 + ts + react 17.x + antd 4.x + dva 项目模板
 
 ## 介绍
 
-webpack5 + ts + react + antd-4x + dva 项目模板
+webpack5 + ts + react 17.x + antd 4.x + dva 项目模板
 
 - TODO: 后续会实现 cli, 一键生成项目
 
