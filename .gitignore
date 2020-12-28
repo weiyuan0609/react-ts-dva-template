@@ -1,0 +1,6 @@
+dist/*
+node_modules/*
+covarage
+.idea
+.vscode/*
+yarn-error.log
